@@ -1,1 +1,1 @@
-# Diary-
+# Simple Express-NodeJs diary app
